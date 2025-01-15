@@ -1,4 +1,4 @@
-name: lint-wf
+name: linting-wf
 on:
   push:
     branches:
